@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+QTgW06zu+honO/HhE4jEThnzhJeGYGUA5XuTcbe+bxzR1GWsiohVgPayTnCN6PpeO/b6tCtDlKnHHOuw5B7A==",
+  "success": true,
+  "projectFilePath": "/Users/frankiadach/projects/repos/exercise/NewWebApi_1/NewWebApi_1.WebApi/NewWebApi_1.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/frankiadach/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/frankiadach/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/frankiadach/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/frankiadach/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/frankiadach/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/frankiadach/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
